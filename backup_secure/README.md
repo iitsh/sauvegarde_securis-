@@ -109,9 +109,9 @@ python Azure.py -f /chemin/vers/fichier -b nom_du_blob -c nom_du_conteneur -cs "
 - Testez le processus complet pour vous assurer qu'aucune donnée n'est perdue lors du chiffrement ou du transfert.
 
 ## Auteurs
-**Omar Bouhaddach**
-
 **Rayane Berrada**
+
+**Omar Bouhaddach**
 
 **Aimad Bouya**
 
